@@ -6,6 +6,6 @@
 */
 export default {
   xxx (state) { // state是总的state
-
+   
   }
 }
