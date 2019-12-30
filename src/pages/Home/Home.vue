@@ -356,13 +356,16 @@ import { reqHomeRecommend } from "../../api/index";
     //导航横向滑动newscroll
       initScroll () {
         let eleWidth = 35
-        
+        console.log(this.$refs.personTab.children);
         this.$refs.personTab.children.forEach((item,index) => {
           eleWidth +=item.clientWidth
         });
         //动态获取导航滑块的宽
         this.$refs.personTab.style.width = eleWidth+'px'
 
+
+
+        
         // //动态获主体滑块的宽
         let homeMainWidth =0
         this.$refs.homeMain.children.forEach((item,index) => {
