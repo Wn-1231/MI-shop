@@ -1,0 +1,263 @@
+{
+  "code": 0,
+  "data": {
+    "ad_list": [{
+      "body": {
+        "h": 300,
+        "items": [{
+          "action": {
+            "log_code": "31wapadsearch-precells_auto_fill001001#t=ad&act=product&page=adsearch-pre&pid=10000203&bid=3477181.1&adp=63&adm=17013",
+            "path": "10000203",
+            "type": "product"
+          },
+          "h": 300,
+          "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0087312fb580d3b571178fbcb6b27f89.jpg?w=1080&h=300&bg=E2E6EF",
+          "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0087312fb580d3b571178fbcb6b27f89.jpg?f=webp&w=1080&h=300&bg=E2E6EF",
+          "path_type": "image",
+          "w": 1080
+        }],
+        "line_color": "",
+        "line_height": "",
+        "title_logo_url": "",
+        "w": 1080
+      },
+      "stat": "",
+      "view_type": "cells_auto_fill"
+    }],
+    "gif_url": "https://v.mifile.cn/v1/a1/f4c27b6a-d110-6698-73c1-2a2e1101a70f.gif",
+    "hot_class": [
+      {
+        "bottom_title": "",
+        "icon": "",
+        "is_page_show": false,
+        "name": "手机",
+        "parameter_id": 1,
+        "search_title": "",
+        "top_title": "",
+        "value": ""
+      },
+      {
+        "bottom_title": "",
+        "icon": "",
+        "is_page_show": false,
+        "name": "电视",
+        "parameter_id": 7,
+        "search_title": "",
+        "top_title": "",
+        "value": ""
+      },
+      {
+        "bottom_title": "",
+        "icon": "",
+        "is_page_show": false,
+        "name": "笔记本",
+        "parameter_id": 2,
+        "search_title": "",
+        "top_title": "",
+        "value": ""
+      },
+      {
+        "bottom_title": "",
+        "icon": "",
+        "is_page_show": false,
+        "name": "盒子",
+        "parameter_id": 9,
+        "search_title": "",
+        "top_title": "",
+        "value": ""
+      },
+      {
+        "bottom_title": "",
+        "icon": "",
+        "is_page_show": false,
+        "name": "路由器",
+        "parameter_id": 12,
+        "search_title": "",
+        "top_title": "",
+        "value": ""
+      },
+      {
+        "bottom_title": "",
+        "icon": "",
+        "is_page_show": false,
+        "name": "平板",
+        "parameter_id": 3,
+        "search_title": "",
+        "top_title": "",
+        "value": ""
+      },
+      {
+        "bottom_title": "",
+        "icon": "",
+        "is_page_show": false,
+        "name": "手表",
+        "parameter_id": 20,
+        "search_title": "",
+        "top_title": "",
+        "value": ""
+      },
+      {
+        "bottom_title": "",
+        "icon": "",
+        "is_page_show": false,
+        "name": "VR",
+        "parameter_id": 21,
+        "search_title": "",
+        "top_title": "",
+        "value": ""
+      },
+      {
+        "bottom_title": "",
+        "icon": "",
+        "is_page_show": false,
+        "name": "穿戴",
+        "parameter_id": 18,
+        "search_title": "",
+        "top_title": "",
+        "value": ""
+      },
+      {
+        "bottom_title": "",
+        "icon": "",
+        "is_page_show": false,
+        "name": "空气净化器",
+        "parameter_id": 5,
+        "search_title": "",
+        "top_title": "",
+        "value": ""
+      },
+      {
+        "bottom_title": "",
+        "icon": "",
+        "is_page_show": false,
+        "name": "空调",
+        "parameter_id": 59,
+        "search_title": "",
+        "top_title": "",
+        "value": ""
+      },
+      {
+        "bottom_title": "",
+        "icon": "",
+        "is_page_show": false,
+        "name": "洗衣机",
+        "parameter_id": 60,
+        "search_title": "",
+        "top_title": "",
+        "value": ""
+      },
+      {
+        "bottom_title": "",
+        "icon": "",
+        "is_page_show": false,
+        "name": "耳机",
+        "parameter_id": 8,
+        "search_title": "",
+        "top_title": "",
+        "value": ""
+      },
+      {
+        "bottom_title": "",
+        "icon": "",
+        "is_page_show": false,
+        "name": "家电",
+        "parameter_id": 4,
+        "search_title": "",
+        "top_title": "",
+        "value": ""
+      },
+      {
+        "bottom_title": "",
+        "icon": "",
+        "is_page_show": false,
+        "name": "冰箱",
+        "parameter_id": 62,
+        "search_title": "",
+        "top_title": "",
+        "value": ""
+      },
+      {
+        "bottom_title": "",
+        "icon": "",
+        "is_page_show": false,
+        "name": "安防监控",
+        "parameter_id": 24,
+        "search_title": "",
+        "top_title": "",
+        "value": ""
+      },
+      {
+        "bottom_title": "",
+        "icon": "",
+        "is_page_show": false,
+        "name": "插线板",
+        "parameter_id": 25,
+        "search_title": "",
+        "top_title": "",
+        "value": ""
+      },
+      {
+        "bottom_title": "",
+        "icon": "",
+        "is_page_show": false,
+        "name": "酷玩",
+        "parameter_id": 27,
+        "search_title": "",
+        "top_title": "",
+        "value": ""
+      }
+    ],
+    "keywords": [
+      
+      {
+        "back_n": "#e4f5e2",
+        "border_n": "#97c28a",
+        "font_n": "#484848",
+        "word": "Redmi K30 4G"
+      },
+      {
+        "back_n": "#f9eaea",
+        "border_n": "#fca0a7",
+        "font_n": "#050505",
+        "word": "Redmi K30 5G"
+      },
+      {
+        "back_n": "#fce5cd",
+        "border_n": "#fac288",
+        "font_n": "#484848",
+        "word": "小米小爱触屏音箱Pro 8\t"
+      },
+      {
+        "back_n": "#e8f6f6",
+        "border_n": "#8cdade",
+        "font_n": "#484848",
+        "word": "众筹新品"
+      },
+      {
+        "back_n": "#fae8e8",
+        "border_n": "#e3af96",
+        "font_n": "#484848",
+        "word": "手机USB micro 数据线 "
+      },
+      {
+        "back_n": "#f2f6e9",
+        "border_n": "#bbd090",
+        "font_n": "#484848",
+        "word": "Redmi 8A"
+      },
+      {
+        "back_n": "#f8f2ec",
+        "border_n": "#fac288",
+        "font_n": "#484848",
+        "word": "Redmi Note 8"
+      },
+      {
+        "back_n": "#f9eaea",
+        "border_n": "#fca0a7",
+        "font_n": "#484848",
+        "word": "小米手环4"
+      }
+    ]
+  },
+  "result": "ok"
+}
